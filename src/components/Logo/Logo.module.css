@@ -1,0 +1,17 @@
+.logo {
+  background-color: #26A69A;
+  height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.logo__a {
+  font-size: 1.265rem;
+  font-weight: 700;
+  color: #ffffff;
+}
+.logo__a:active,
+.logo__a:hover {
+  color: #ffffff;
+}
